@@ -145,7 +145,7 @@ else:
     print("No results found.")
 ```
 ### Output:
-<img width="529" height="667" alt="Screenshot 2026-08-18 112229" src="https://github.com/user-attachments/assets/78db93b6-4214-458c-94f3-c3221427b881" />
+<img width="529" height="667" alt="image" src="https://github.com/user-attachments/assets/001b4d05-40e8-4aff-9738-507d926a2fa5" />
 
 ### Result:
 Thus Information Retrieval Using Vector Space Model in Python is implemented.
